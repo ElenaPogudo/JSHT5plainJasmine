@@ -1,0 +1,14 @@
+{
+  "name": "jsht5plainjasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "karma.conf.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "selenium-webdriver": "3.3.0"
+  }
+}
